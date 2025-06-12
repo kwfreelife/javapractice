@@ -1,2 +1,2 @@
-# java
+# java practice.
 sample Java programs.
